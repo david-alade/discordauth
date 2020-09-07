@@ -4,8 +4,6 @@ const url = require('url');
 const fetch = require('node-fetch');
 const FormData = require('form-data');
 
-//const primeDisc = client.guilds.cache.get(628398743179493406);
-//const testDisc = client.guilds.cache.get('719970136995397732');
 
 const port = 5000;
 var infoObj;
